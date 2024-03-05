@@ -33,8 +33,8 @@ const myFunction = function(){console.log("Hello World!")}
 
 //⭐Browser Event and Objects are impo to master JS⭐//
 
-//🌟JS is Dynamically Typed Language🌟// const score = 200
+//🌟JS is Dynamically Typed Language🌟      // const score = 200
 
-// TypeScript is Statically Typed Language.// const score:number = 200
+// TypeScript is Statically Typed Language.  // const score:number = 200
 
 console.log(typeof myFunction)
